@@ -1,2 +1,2 @@
 # droidide-genkit-ai
-# droidide-genkit-ai
+# DroidIDE Genkit AI
